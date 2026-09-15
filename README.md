@@ -21,7 +21,7 @@
   - Partes mais dinâmicas da UI são montados usando [HTMX](https://htmx.org/) e [AlpineJS](https://alpinejs.dev/).
   - 3D renderizado usando ThreeJS.
 - `devops`
-  - Deploy do banco de dados e do backend feito usando o [Railway](https://railway.com/).
+  - Deploy do banco de dados, do storage e do backend feito usando o [Railway](https://railway.com/).
  
 ### Tarefas
 
