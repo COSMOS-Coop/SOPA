@@ -17,7 +17,7 @@
   - Usa o FastAPI + PostgreSQL para dados persistentes junto com WebRTC para dados mais dinâmicos como chats e posições de usuários no mapa.
   - Autenticação de usuários usando Firebase ou algum outro serviço terceirizado (incerto, pesquisar mais sobre dps).
 - `frontend`
-  - Renderizado usando templates pelo backend.
+  - Paginas renderizadas usando templates pelo próprio backend.
   - Partes mais dinâmicas da UI são montados usando [HTMX](https://htmx.org/) e [AlpineJS](https://alpinejs.dev/).
   - 3D renderizado usando ThreeJS.
 - `devops`
